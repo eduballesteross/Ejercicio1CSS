@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+.plata{
+	text-align: center;
+	background:silver;
+	
+}
+
+.centro {
+	text-align: center;
+	
+}
+
+.derecha{
+	text-align: right;
+}
+
+.rojo {
+	color: red;
+}
+
+body{
+	font-family:verdana;
+	font-size:20px;
+	background: aqua;
+	color: blue;
+}
